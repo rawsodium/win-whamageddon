@@ -2,7 +2,7 @@
 A Python script that removes Wham's "Last Christmas" from any of your Spotify playlists.
 
 # Files
-- auth_flow.py
+- pkce.py
     Handles the generation of a code verifier and code challenge for PKCE authorization
 
 - script.py
